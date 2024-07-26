@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://resources-app.encharge.io/$1"
+ }
+  ]
+}
