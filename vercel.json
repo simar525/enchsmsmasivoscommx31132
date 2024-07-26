@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/sms.js",       "destination": "/encharge-tracking.min.js",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://resources-app.encharge.io/$1"
- }
+    }
   ]
 }
+    
